@@ -225,7 +225,7 @@ body {
   color: var(--pure-white);
   text-decoration: none;
   background-color: var(--accent);
-  border-radius: 4px;
+  border-radius: 5px;
   transform: all 0.3s;
 }
 
